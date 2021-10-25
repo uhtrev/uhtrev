@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @uhtrev
 - 👀 I’m interested in Reading and Programming
-- 🌱 I’m currently learning Pythons/C#
+- 🌱 I’m currently learning Python/C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... trevorlopez1998@outlook.com
+- 📫 How to reach me ... 
 
 <!---
 uhtrev/uhtrev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
