@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uhtrev
 - 👀 I’m interested in Reading and Programming
-- 🌱 I’m currently learning Python/C++/C#
+- 🌱 I’m currently learning Pythons/C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... trevorlopez1998@outlook.com
 
