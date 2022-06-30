@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @uhtrev
 - 👀 I’m interested in Reading and Programming
 - 🌱 I’m currently learning HTML/CSS and Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
 <!---
